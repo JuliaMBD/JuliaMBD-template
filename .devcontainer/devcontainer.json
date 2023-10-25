@@ -9,7 +9,6 @@
 				"hediet.vscode-drawio"
 			],
             "settings": {
-                "workbench.colorTheme": "Default Light Modern",
                 "julia.executablePath": "/opt/julia/bin/julia",
                 "editor.acceptSuggestionOnEnter": "off"
             }
