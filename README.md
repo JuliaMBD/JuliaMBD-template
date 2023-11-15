@@ -22,7 +22,7 @@ A template for JuliaMBD with VSCode
 ## Use GUI with Draw.io
 
 - Run `Draw.io: New Draw.io Diagram` from Command Palette
-- Import `library/JuliaMBD.xml`
+- Import `JuliaMBD.xml`
 
 ## Open Jupyter Notebook
 
